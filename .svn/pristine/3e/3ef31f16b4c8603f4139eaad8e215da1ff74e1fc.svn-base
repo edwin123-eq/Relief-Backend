@@ -1,0 +1,15 @@
+{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft.AspNetCore": "Warning"
+    }
+  },
+  "AllowedHosts": "*",
+  "ConnectionStrings": {
+     // "Relief": "Data Source=eqsoft-2;Initial Catalog=Relief_New;User ID=sa;Encrypt=false;TrustServerCertificate=false;",
+      "Relief": "Data Source=LAB4\\SQLEXPRESS;Initial Catalog=Relief_TEST;User ID=sa;Encrypt=false;TrustServerCertificate=false;"
+   
+
+  }
+}
