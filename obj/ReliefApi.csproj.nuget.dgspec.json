@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Relief Delivery app Internship\\ReliefApi.csproj": {}
+    "C:\\Users\\kevin\\StudioProjects\\Relief-Backend\\ReliefApi.csproj": {}
   },
   "projects": {
-    "D:\\Relief Delivery app Internship\\ReliefApi.csproj": {
+    "C:\\Users\\kevin\\StudioProjects\\Relief-Backend\\ReliefApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Relief Delivery app Internship\\ReliefApi.csproj",
+        "projectUniqueName": "C:\\Users\\kevin\\StudioProjects\\Relief-Backend\\ReliefApi.csproj",
         "projectName": "ReliefApi",
-        "projectPath": "D:\\Relief Delivery app Internship\\ReliefApi.csproj",
+        "projectPath": "C:\\Users\\kevin\\StudioProjects\\Relief-Backend\\ReliefApi.csproj",
         "packagesPath": "C:\\Users\\kevin\\.nuget\\packages\\",
-        "outputPath": "D:\\Relief Delivery app Internship\\obj\\",
+        "outputPath": "C:\\Users\\kevin\\StudioProjects\\Relief-Backend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kevin\\AppData\\Roaming\\NuGet\\NuGet.Config",

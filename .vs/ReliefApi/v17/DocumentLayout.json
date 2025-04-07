@@ -1,10 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Relief Delivery app Internship\\",
+  "WorkspaceRootPath": "C:\\Users\\kevin\\StudioProjects\\Relief-Backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{41A08BB2-C6A3-4F53-A1D1-D588A15BBBA1}|ReliefApi.csproj|d:\\relief delivery app internship\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{41A08BB2-C6A3-4F53-A1D1-D588A15BBBA1}|ReliefApi.csproj|c:\\users\\kevin\\studioprojects\\relief-backend\\services\\branches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41A08BB2-C6A3-4F53-A1D1-D588A15BBBA1}|ReliefApi.csproj|solutionrelative:services\\branches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41A08BB2-C6A3-4F53-A1D1-D588A15BBBA1}|ReliefApi.csproj|c:\\users\\kevin\\studioprojects\\relief-backend\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41A08BB2-C6A3-4F53-A1D1-D588A15BBBA1}|ReliefApi.csproj|solutionrelative:controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41A08BB2-C6A3-4F53-A1D1-D588A15BBBA1}|ReliefApi.csproj|c:\\users\\kevin\\studioprojects\\relief-backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{41A08BB2-C6A3-4F53-A1D1-D588A15BBBA1}|ReliefApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41A08BB2-C6A3-4F53-A1D1-D588A15BBBA1}|ReliefApi.csproj|c:\\users\\kevin\\studioprojects\\relief-backend\\controllers\\cashsummarymailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41A08BB2-C6A3-4F53-A1D1-D588A15BBBA1}|ReliefApi.csproj|solutionrelative:controllers\\cashsummarymailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,10 +31,49 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Branches.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\StudioProjects\\Relief-Backend\\Services\\Branches.cs",
+              "RelativeDocumentMoniker": "Services\\Branches.cs",
+              "ToolTip": "C:\\Users\\kevin\\StudioProjects\\Relief-Backend\\Services\\Branches.cs",
+              "RelativeToolTip": "Services\\Branches.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T06:30:13.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DashBoardController.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\StudioProjects\\Relief-Backend\\Controllers\\DashBoardController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DashBoardController.cs",
+              "ToolTip": "C:\\Users\\kevin\\StudioProjects\\Relief-Backend\\Controllers\\DashBoardController.cs",
+              "RelativeToolTip": "Controllers\\DashBoardController.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAtwCYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T06:06:35.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CashSummaryMailController.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\StudioProjects\\Relief-Backend\\Controllers\\CashSummaryMailController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CashSummaryMailController.cs",
+              "ToolTip": "C:\\Users\\kevin\\StudioProjects\\Relief-Backend\\Controllers\\CashSummaryMailController.cs",
+              "RelativeToolTip": "Controllers\\CashSummaryMailController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T05:15:04.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Relief Delivery app Internship\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\kevin\\StudioProjects\\Relief-Backend\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "D:\\Relief Delivery app Internship\\appsettings.json",
+              "ToolTip": "C:\\Users\\kevin\\StudioProjects\\Relief-Backend\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ReliefApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e312f7a4a11cbd430c4bf4506a5a12b12715cf3")]
 [assembly: System.Reflection.AssemblyProductAttribute("ReliefApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ReliefApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
