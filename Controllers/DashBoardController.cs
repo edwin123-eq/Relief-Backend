@@ -5282,7 +5282,7 @@ namespace ReliefApi.Controllers
             // Check if the file exists
             if (!System.IO.File.Exists(filePath))
             {
-                return NotFound("QR code not found");
+                return NotFound("QR code not found !!");
             }
 
             // Read the file bytes and return as a file response
